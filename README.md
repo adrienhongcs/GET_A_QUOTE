@@ -3,6 +3,8 @@
 
 **STACK: MongoDB, Express, React, Node.js along with Redux, and Reactstrap**
 
+(using React class components)
+
 Check out the IOS version [here](https://github.com/adrienhongcs/GET_A_QUOTE_IOS/)!
 
 ## OVERVIEW
